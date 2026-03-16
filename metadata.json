@@ -1,0 +1,8 @@
+{
+  "name": "Kamal Chat",
+  "description": "A high-tech real-time chat application with AI integration, WebRTC calls, and secure access.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
